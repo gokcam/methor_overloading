@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\methor_overloading.exe
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\methor_overloading.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\methor_overloading.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\methor_overloading.dll
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\ref\methor_overloading.dll
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\bin\Debug\net6.0\methor_overloading.pdb
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.dll
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\ref\methor_overloading.dll
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.pdb
+C:\Users\90542\Desktop\Pratikler Devam\methor_overloading\obj\Debug\net6.0\methor_overloading.genruntimeconfig.cache
